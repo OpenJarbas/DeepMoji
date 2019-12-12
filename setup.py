@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='simple_deepmoji',
-    version='0.1',
+    version='0.1.1',
     packages=['simple_deepmoji'],
     description='DeepMoji python library',
     include_package_data=True,
@@ -15,5 +15,5 @@ setup(
     ],
     author='jarbasAI',
     author_email='jarbasai@mailfence.com',
-    url='https://github.com/JarbasAl/simple_deepmoji',
+    url='https://github.com/OpenJarbas/simple_deepmoji',
 )
