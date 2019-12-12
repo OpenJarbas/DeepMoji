@@ -20,7 +20,7 @@ initial release
 
 ### Added
 
-- wrapper around [colinmorris/char-rbm](https://github.com/colinmorris/char-rbm)
+- wrapper around [bfelbo/DeepMoji](https://github.com/bfelbo/DeepMoji)
 
 [unreleased]: https://github.com/OpenJarbas/simple_deepmoji/tree/dev
 [0.1.1]: https://github.com/OpenJarbas/simple_deepmoji/tree/0.1
